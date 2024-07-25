@@ -7,4 +7,4 @@ REDS (Realistic Experiments Design Suite) https://www.reds-lab.com is a suite to
 
 
 [How to Use REDS]
-[embed]https://github.com/Meysam-shirdel/REDS/blob/main/How%20to%20Use%20REDS.pdf[/embed]
+https://github.com/Meysam-shirdel/REDS/blob/main/How%20to%20Use%20REDS.pdf
